@@ -1,0 +1,10 @@
+module top;
+
+wire [5:0] addr;
+wire [7:0] data;
+wire [7:0] ac_out;
+
+mem m(addr,data);
+cpu cpu(clk,rst,addr,data,ac_out);
+
+endmodule

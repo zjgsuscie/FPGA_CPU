@@ -1,0 +1,228 @@
+m255
+K3
+13
+cModel Technology
+dC:\x
+T_opt
+V=c]`RJVcg61aYBcX`jzSk1
+04 3 4 work top fast 0
+=1-6c0b8469087d-561f2298-c7-1454
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+vac
+I9@B9aTXUcZInUK2kdE^963
+V>_4ZC7E5F_0G;BY^VPD`A1
+Z0 dC:\simplecpu
+w1444877240
+8C:/simplecpu/ac.v
+FC:/simplecpu/ac.v
+L0 1
+Z1 OE;L;10.1a;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 D`MZ[2W3Xg2R54SEIia=V0
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/ac.v|
+!s108 1444881044.798000
+!s107 C:/simplecpu/ac.v|
+!i10b 1
+!s85 0
+valu
+I4e_QJOzod]XU6gaWY<hGm3
+V77O5>;GgjQV3CjS5zg<eP1
+Z3 dC:\simplecpu
+w1444276475
+8C:/simplecpu/alu.v
+FC:/simplecpu/alu.v
+L0 1
+R1
+r1
+31
+R2
+!s100 aMzVE=EYOfRGj_2SJoWDl0
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/alu.v|
+!s108 1444881044.986000
+!s107 C:/simplecpu/alu.v|
+!i10b 1
+!s85 0
+var
+I]Eh3Rb=9?VL92I10^mmA61
+V;LB0bChPhX8FCU1MMD@2V2
+R3
+w1444275907
+8C:/simplecpu/ar.v
+FC:/simplecpu/ar.v
+L0 1
+R1
+r1
+31
+R2
+!s100 :YRD4NPoRgFVeemS7AeD00
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/ar.v|
+!s108 1444881043.972000
+!s107 C:/simplecpu/ar.v|
+!i10b 1
+!s85 0
+vcontroller
+Ibic=Bdf;??6eJO;61KOJe2
+VMZY?GJLU?zA`jbb^RCRRj3
+R3
+w1444881013
+8C:/simplecpu/controller.v
+FC:/simplecpu/controller.v
+L0 15
+R1
+r1
+31
+R2
+!s100 8eF43f^4aL4W4hmSR;UTR3
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/controller.v|
+!s108 1444881045.563000
+!s107 C:/simplecpu/controller.v|
+!i10b 1
+!s85 0
+vcpu
+I3X?69mE<IR]N_8LRm`<_P3
+VZJiOSWdEG2N^7Ac25L2:[3
+R3
+w1444880359
+8C:/simplecpu/cpu.v
+FC:/simplecpu/cpu.v
+L0 1
+R1
+r1
+31
+R2
+!s100 IQJz`<FDX6<QXd_7fH0Oj0
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/cpu.v|
+!s108 1444881045.734000
+!s107 C:/simplecpu/cpu.v|
+!i10b 1
+!s85 0
+vdr
+IKPHzVj5d:n>iR0aFfifoB0
+VaMcO^mnC9_l1XOMbU]N:R0
+R3
+w1444276009
+8C:/simplecpu/dr.v
+FC:/simplecpu/dr.v
+L0 1
+R1
+r1
+31
+R2
+!s100 f];IhfRHQf09:3fWbjDZ;0
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/dr.v|
+!s108 1444881044.128000
+!s107 C:/simplecpu/dr.v|
+!i10b 1
+!s85 0
+vir
+IKG2JJL_iA_R?_S:leg1o73
+VoD<5`UgYD=jWm=QaK2e_z1
+R3
+w1444276078
+8C:/simplecpu/ir.v
+FC:/simplecpu/ir.v
+L0 1
+R1
+r1
+31
+R2
+!s100 a;`bL^cFJblA<>cCGbF=Y2
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/ir.v|
+!s108 1444881044.393000
+!s107 C:/simplecpu/ir.v|
+!i10b 1
+!s85 0
+vmem
+IS203bX@]E]_SPXT<PJdke3
+VFC8dj`:7zVD8]Ho?mcA?92
+R3
+w1444880269
+8C:/simplecpu/mem.v
+FC:/simplecpu/mem.v
+L0 1
+R1
+r1
+31
+R2
+!s100 X_9c4JF7lYgJb^ZgYzRf:2
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/mem.v|
+!s108 1444881045.953000
+!s107 C:/simplecpu/mem.v|
+!i10b 1
+!s85 0
+vpc
+IPU`XOFcXL?;0fDJm0U[>_2
+VgJ:WY^oGd`H9F34kc][?b2
+R3
+w1444877248
+8C:/simplecpu/pc.v
+FC:/simplecpu/pc.v
+L0 1
+R1
+r1
+31
+R2
+!s100 @Vb]6fQHP0b8a^jDMPdEj1
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/pc.v|
+!s108 1444881044.611000
+!s107 C:/simplecpu/pc.v|
+!i10b 1
+!s85 0
+vtop
+I<zL3F;ME>kU;@<Yg;>>go0
+Ve:gFW1CKLAXc^T:7k2HoD1
+R3
+w1444878394
+8C:/simplecpu/top.v
+FC:/simplecpu/top.v
+L0 1
+R1
+r1
+31
+R2
+!s100 S9WzYkQTh;kVg]K5;[ReL1
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/top.v|
+!i10b 1
+!s85 0
+!s108 1444881046.124000
+!s107 C:/simplecpu/top.v|
+vtri6
+IelhBTUUH[nJ1V`2ho9flE3
+VKERh[>8B^64caUV@9ziS42
+R3
+w1444276783
+8C:/simplecpu/tri6.v
+FC:/simplecpu/tri6.v
+L0 1
+R1
+r1
+31
+R2
+!s100 OQzM]K<n[FY3?1YNZc>_R3
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/tri6.v|
+!s108 1444881045.173000
+!s107 C:/simplecpu/tri6.v|
+!i10b 1
+!s85 0
+vtri8
+I]2e_BjFd@VaLDHfh2Odgl2
+V<5OJI>]I;;?i8];0W@mjk3
+R3
+w1444276849
+8C:/simplecpu/tri8.v
+FC:/simplecpu/tri8.v
+L0 1
+R1
+r1
+31
+R2
+!s100 gfCbA2hA]I8VJ>]KlRgWU2
+!s90 -reportprogress|300|-work|work|-vopt|C:/simplecpu/tri8.v|
+!s108 1444881045.344000
+!s107 C:/simplecpu/tri8.v|
+!i10b 1
+!s85 0

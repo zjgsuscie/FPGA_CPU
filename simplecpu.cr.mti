@@ -1,0 +1,85 @@
+C:/simplecpu/mem.v {1 {vlog -work work -vopt C:/simplecpu/mem.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} C:/simplecpu/tri8.v {1 {vlog -work work -vopt C:/simplecpu/tri8.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module tri8
+
+Top level modules:
+	tri8
+
+} {} {}} C:/simplecpu/cpu.v {1 {vlog -work work -vopt C:/simplecpu/cpu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} C:/simplecpu/top.v {1 {vlog -work work -vopt C:/simplecpu/top.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/simplecpu/ir.v {1 {vlog -work work -vopt C:/simplecpu/ir.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ir
+
+Top level modules:
+	ir
+
+} {} {}} C:/simplecpu/pc.v {1 {vlog -work work -vopt C:/simplecpu/pc.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/simplecpu/controller.v {1 {vlog -work work -vopt C:/simplecpu/controller.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/simplecpu/dr.v {1 {vlog -work work -vopt C:/simplecpu/dr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dr
+
+Top level modules:
+	dr
+
+} {} {}} C:/simplecpu/alu.v {1 {vlog -work work -vopt C:/simplecpu/alu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/simplecpu/ar.v {1 {vlog -work work -vopt C:/simplecpu/ar.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ar
+
+Top level modules:
+	ar
+
+} {} {}} C:/simplecpu/ac.v {1 {vlog -work work -vopt C:/simplecpu/ac.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ac
+
+Top level modules:
+	ac
+
+} {} {}} C:/simplecpu/tri6.v {1 {vlog -work work -vopt C:/simplecpu/tri6.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module tri6
+
+Top level modules:
+	tri6
+
+} {} {}}

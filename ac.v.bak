@@ -1,0 +1,22 @@
+module ac(clk,rst,load,inc,din,dout);
+  input clk,rst,load,inc;
+  input [7:0] din;
+  output [7:0] dout;
+  
+  reg [7:0] d;
+  
+  assign dout = d;
+  
+  always @(posedge clk)
+  begin
+    if(rst)
+      d = 0;
+  else if(load)
+      d = din;
+    else if(inc)
+      d = d + 1;
+  end
+  
+endmodule
+
+
